@@ -13,6 +13,7 @@ end
 gem 'casino'
 gem 'casino-ldap_authenticator'
 gem 'casino-activerecord_authenticator'
+gem 'casino-test_authenticator'
 
 gem 'http_accept_language', '~> 2.0'
 
