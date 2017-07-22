@@ -1,4 +1,4 @@
 apiVersion: v1
 description: A Helm chart for Kubernetes
-name: trendy-yak
+name: casino
 version: 0.1.0
