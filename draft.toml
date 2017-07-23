@@ -1,6 +1,6 @@
 [environments]
   [environments.development]
-    name = "casino"
+    name = "faker"
     namespace = "default"
     watch = true
     watch_delay = 2
